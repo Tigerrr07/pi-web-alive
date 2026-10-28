@@ -1,5 +1,7 @@
 # pi-web-alive
 
+English | [中文](README_CN.md)
+
 **One-line setup.** On the machine that should run pi-web, tell your AI agent (Claude Code, pi, …):
 
 ```text
